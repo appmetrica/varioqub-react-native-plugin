@@ -1,6 +1,6 @@
 {
   "name": "@appmetrica/react-native-varioqub",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "React Native plugin for Varioqub",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
