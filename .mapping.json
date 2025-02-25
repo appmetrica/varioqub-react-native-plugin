@@ -1,4 +1,5 @@
 {
+  ".":"mobile/metrika/react-native/varioqub-plugin",
   ".editorconfig":"mobile/metrika/react-native/varioqub-plugin/.editorconfig",
   ".gitattributes":"mobile/metrika/react-native/varioqub-plugin/.gitattributes",
   ".gitignore":"mobile/metrika/react-native/varioqub-plugin/.gitignore",
